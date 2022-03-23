@@ -2,31 +2,18 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrián...
 </p>
 
-<h2 align="center"> Github Stats 🏆 </h2>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- Github Readme Activity Graph - https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
- <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=adriancloud&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" height ="150px" /></a>
- <a><img src="https://activity-graph.herokuapp.com/graph?username=adriancloud&theme=react-dark&bg_color=20232a&hide_border=true" height ="150px"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="adriancloud´s streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adriancloud&theme=react&hide_border=true" height ="150px"/>
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="adriancloud´s Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=adriancloud&bg_color=20232A&color=FFFFFF&line=61D9FA&point=FFFFFF&hide_border=true" height ="150px" />
+  </a>
 </p>
 
 
 
-
-
-
-
-
-
-<!--
-**adriancloud/adriancloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
