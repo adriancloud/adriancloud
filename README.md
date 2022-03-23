@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h2 align="center">🔥 Streak Stats 🔥</h2>
+<h2 align="center">🔥 Streak Stats 🔥</p>
 <p align="center">
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
