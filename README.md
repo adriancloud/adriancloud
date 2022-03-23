@@ -22,10 +22,11 @@
     <img alt="adriancloud´s Stats Card" src="https://github-readme-stats.vercel.app/api?username=adriancloud&show_icons=true&bg_color=00000000&hide_border=true&icon_color=61D9FA&title_color=61D9FA&text_color=FFFFFF&count_private=true" height ="150px">
   </a>
   
-  <!-- Top Languages Card - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Top Languages Card - https://github.com/anuraghazra/github-readme-stats 
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="adriancloud´s Lenguages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancloud&layout=compact&bg_color=00000000&hide_border=true&title_color=61D9FA&text_color=FFFFFF" height ="150px">
   </a>
+  -->
 </p>
 
 
