@@ -3,11 +3,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=61D9FA&center=true&vCenter=true&lines=alert('%C2%A1Hello%2C+world');%C2%A1My+name+is+Adri%C3%A1n!;Welcome+to+my+GitHub+%E2%9C%A8">
   </a>
-  <!-- <p align="center">
-    <a href="https://instagram.com/"> <img src="https://img.icons8.com/ios-glyphs/30/61D9FA/instagram-new.png"></a>
-    <a href="https://instagram.com/"> <img src="https://img.icons8.com/glyph-neue/30/61D9FA/twitter-squared.png"/></a>
-    <a href="https://instagram.com/"> <img src="https://img.icons8.com/ios-filled/29/61D9FA/linkedin.png"/></a>
-  </p> -->
+  <p align="center">
+    <a href="https://instagram.com/adrianlynx_"> <img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/></a>
+    <a href="https://twitter.com/adrianlynx_"> <img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/></a>
+    <a href="https://linktr.ee/adrianlynx"> <img src="https://img.icons8.com/color/30/000000/linktree.png"/></a>
+  </p>
 </h1>
 
 <h2 align="center">🔥 Streak Stats 🔥</p>
