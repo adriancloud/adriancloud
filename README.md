@@ -5,7 +5,7 @@
   </a>
   <p align="center">
     <a href="https://instagram.com/adrianlynx_"> <img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/></a>
-    <a href="https://twitter.com/adrianlynx_"> <img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/></a>
+    <a href="https://twitter.com/adrianlynxar"> <img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/></a>
     <a href="https://linktr.ee/adrianlynx"> <img src="https://img.icons8.com/color/30/000000/linktree.png"/></a>
   </p>
 </h1>
@@ -19,8 +19,9 @@
   
   <!-- Github Readme Activity Graph - https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="adriancloud´s Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=adriancloud&bg_color=00000000&color=FFFFFF&line=61D9FA&point=FFFFFF&hide_border=true" height ="150px"/>
+    <img alt="adriancloud´s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adriancloud&bg_color=00000000&color=FFFFFF&line=61D9FA&point=FFFFFF&hide_border=true" height ="150px"/>
   </a>
+
   
   <!-- GitHub Stats Card - https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
